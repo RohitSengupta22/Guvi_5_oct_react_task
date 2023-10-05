@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.Banner{
+  width: 100%;
+  height: 300px;
+  background-color: black;
+}
+
+.cart{
+
+  float: right !important;
+}
+
+
